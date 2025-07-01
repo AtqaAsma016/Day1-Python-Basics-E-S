@@ -95,7 +95,7 @@ print(f"Greatest among {num1} {num2} {num3} is {greatest}")
 #WAP to check if the number is multiple of 7.
 num= int(input("Enter number: "))
 rem=num%7
-if (rem==0)1
+if (rem==0)
 
 
 
